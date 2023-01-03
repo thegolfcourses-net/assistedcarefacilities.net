@@ -1,0 +1,160 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	background-color:#F4FFE4;
+	}
+	
+td {
+	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	word-wrap: none;
+	}
+	
+a {
+	color: #993300;
+	}
+	
+a:hover {
+	color: #5C743D;
+	}
+
+/* ID Styles */
+
+#headerText { 
+	background-color:#D5EDB3;
+	}
+
+/*background  color 2nd row of header stuff*/
+#subHeaderText {
+	background-color:#D5EDB3;
+	}
+/*line in between top and mid band*/
+#spacer {
+	background-color:#5E5E5E;
+	}
+
+/*middle band*/
+#navbar {
+	background-color:#99CC66;
+	}
+
+#navigation td {
+	border-bottom: 1px solid #F4FFE4; background-color: #5C743D;
+	}
+	
+#navigation a {
+	font: bold 11px Arial, Helvetica, sans-serif;
+	color: #D5EDB3;
+	line-height:16px;
+	letter-spacing:0.1em;
+	text-decoration: none;
+	display:block;
+	padding-top: 4px;
+	padding-right: 2px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+	}
+
+/*background for top of left navigation header*/
+#navHeader {
+	background-color: #5C743D;	
+}
+	
+#navigation a:hover {
+	background: #99CC66;
+	color:#993300;
+	}
+	
+#logo 	{
+	font:24px Arial, Helvetica, sans-serif;
+	color: #5C743D;
+	letter-spacing:.1em;
+	line-height:20px;
+	padding-top: 10px;
+	}
+
+#tagline 	{	
+	font:14px Arial, Helvetica, sans-serif;
+	color: #993300;
+	letter-spacing:.2em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 1px dashed #5C743D;
+	}
+		
+#dateformat {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	letter-spacing:.2em;
+	}
+	
+#dateformat a {
+	font:11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	font-weight:bold;
+	letter-spacing:.1em;
+	text-decoration:none;
+	}
+	
+#dateformat a:hover {
+	color: #F4FFE4;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	font:18px Arial, Helvetica, sans-serif;
+	color:#666666;
+	line-height:20px;
+	margin-top:0px;
+	}
+.cityNames {
+	font:14px Arial, Helvetica, sans-serif;
+	color:#666666;
+	line-height:20px;
+	margin-top:0px;
+}
+.navheadertext{
+	font: 18px Arial, Helvetica, sans-serif;
+	color: #DCDFDF;
+	line-height:21px;
+	letter-spacing:.15em;
+	} 	
+.pageName{
+	font: 18px Arial, Helvetica, sans-serif;
+	color: #99CC66;
+	line-height:26px;
+	letter-spacing:.21em;
+	}
+	
+.subHeader {
+	font:bold 11px Arial, Helvetica, sans-serif;
+	color: #993300;
+	line-height:22px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Arial, Helvetica, sans-serif;
+	color: #666666;
+	line-height: 22px;
+	}
+	
+.navText {
+	font: 11px Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
