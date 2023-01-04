@@ -157,4 +157,9 @@ a:hover {
 	letter-spacing:.1em;
 	text-decoration: none;
 	}
+
+.vertical-bar {
+  background-image: url("gradient.jpg");
+  background-repeat: repeat-y;	
+}
 	
